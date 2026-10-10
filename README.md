@@ -1,3 +1,5 @@
+This is an old project I did to teach myself neural networks and reinforcment learning.
+
 # Flappy Bird Bot
 
 Flappy Bird clone written in Python + pygame. A population of birds, each controlled by a small neural network, learns to play via a genetic algorithm (no backprop): keep the best, mutate copies, repeat.
